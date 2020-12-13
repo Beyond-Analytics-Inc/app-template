@@ -1,1 +1,1 @@
-# stock-forecaster
+# app-template
